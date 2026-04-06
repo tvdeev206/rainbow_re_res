@@ -1,2 +1,3 @@
 Red is one of the principle colors.
 Orange is not a principle color.
+Yellow is second principle colors other than red.
